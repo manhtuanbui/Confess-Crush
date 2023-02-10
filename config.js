@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Big Eyes Girl",
-    introTitle: 'Big Eyes Girl',
+    titleWeb: "Hi My Love",
+    introTitle: 'hi My Love',
     introDesc: `Yêu một người không khó
     Vì chẳng cần lý do
     Tất cả tình cảm của anh
