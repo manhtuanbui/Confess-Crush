@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Hi My Love",
-    introTitle: 'Hi My Love',
+    introTitle: 'Thanh Thao',
     introDesc: `Anh rất hạnh phúc vì được gặp em, em là điều tuyệt vời nhất trong cuộc sống của anh`,
     btnIntro: '^^Love You^^',
     title: 'Anh đã yêu em ngay từ cái nhìn đầu tiên 🥰',
